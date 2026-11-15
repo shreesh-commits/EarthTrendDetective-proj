@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌍 EarthTrend Detective
 
 > **NASA Space Apps Hackathon Initiative**  
@@ -157,3 +158,7 @@ Open [`http://localhost:5173`](http://localhost:5173). The Vite proxy forwards `
 ## 📄 License & NASA Attribution
 
 Developed for the **NASA Space Apps Hackathon**. Data courtesy of **NASA Earth Science Division**, **NASA Langley Research Center (LaRC)**, **NASA LP DAAC**, **NOAA NCEI**, and the **Central Water Commission of India**.
+=======
+# EarthTrendDetective-proj
+An Earth Trend Detective WebApp
+>>>>>>> c28aab574e9e84953d11f34a6264f18c35856c52
